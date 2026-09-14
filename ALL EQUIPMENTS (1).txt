@@ -1,0 +1,226 @@
+
+MAIN
+EQUIPMENSTS  Categories  Column3 Column4 Column5 Column6 Column7 Column8 Column9
+GENERATORS
+             500 KVA,
+             350 KVA 250
+             KVA 150 KVA
+             100 KVA 120
+             KVA 100 KVA
+             80 KVA 60
+             KVA 40 KVA
+             30 KVA 20
+             KVA 15 KVA
+DIESEL       10 KVA 5
+GENERATORS   KVA
+             3 TO 10 KVA
+             GENERATOR
+             USE
+             INTERNET
+PETROL       FOR MORE
+GENERATORS   INFORMATION
+             3 TO 10 KVA
+             GENERATOR
+             USE
+             INTERNET
+PORTABLE     FOR MORE
+GENERATORS   INFORMATION
+             500 KVA,
+             350 KVA 250
+             KVA 150 KVA
+             100 KVA 120
+             KVA 100 KVA
+             80 KVA 60
+             KVA 40 KVA
+             30 KVA 20
+CONSTRUCTION KVA 15 KVA
+SITE         10 KVA 5
+GENERATORS   KVA
+             500 KVA,
+             350 KVA 250
+             KVA 150 KVA
+             100 KVA 120
+             KVA 100 KVA
+             80 KVA 60
+             KVA 40 KVA
+             30 KVA 20
+             KVA 15KVA
+3 PHASE      10 KVA 5
+GENERATORS   KVA
+             501 KVA,
+             350 KVA 250
+             KVA 150 KVA
+             100 KVA 120
+             KVA 100 KVA
+             80 KVA 60
+             KVA 40 KVA
+             30 KVA 20
+             KVA 15KVA
+SILENT       10 KVA 5
+GENERATORS   KVA
+             502 KVA,
+             350 KVA 250
+             KVA 150 KVA
+             100 KVA 120
+             KVA 100 KVA
+             80 KVA 60
+             KVA 40 KVA
+             30 KVA 20
+             KVA 15KVA
+GENERATORS   10 KVA 5
+FOR EVENT    KVA
+             3 TO 10 KVA
+             GENERATOR
+             USE
+             INTERNET
+WELDING      FOR MORE
+GENERATORS   INFORMATION
+             500 KVA,
+             350 KVA 250
+             KVA 150 KVA
+             100 KVA 120
+             KVA 100 KVA
+             80 KVA 60
+             KVA 40 KVA
+GENERATORS   30 KVA 20
+FOR FARMING  KVA 15 KVA
+AND          10 KVA 5
+AGRICULTURE  KVA
+===============================================================================
+************ SShheeeett 22:: SShheeeett22 ************
+EQUIPMENT          CATEGORIES         Column1 Column2 Column3 Column4 Column5
+                   ROLLER COMPACTOR
+CCOOMMPPAACCTTOORR          PLATE COMPACTOR
+                   10 T0N ROLLER 5
+                   TON ROLLER 3 TON
+                   ROLLER 2.5 TON
+                   ROLLER USE GOOGLE
+                   FOR BETTER
+ROLLER COMPACTOR   INFORMATION
+                   30 TO 180 KG PLATE
+PLATE COMPACTOR    COMPACTOR
+
+                   JACK HMER
+                   COMPRESSORA
+                   Jackhammers &
+AAIIRR CCOOMMPPRREESSSSOORR     Pavement Breakers
+                   Spray Guns: For
+                   painting large
+ELECTRIC OR PETROL surfaces (walls,
+PAINT COMPRESSOR   structures,
+                   vehicles) and
+                   applying coatings.
+                   Air Blowers: For
+                   cleaning dust and
+                   debris from
+                   surfaces, tools,
+                   and work areas
+                   before painting or
+                   sealing.Air
+                   Blowers: For
+                   cleaning dust and
+                   debris from
+                   surfaces, tools,
+                   and work areas
+                   before painting or
+                   sealing.or
+                   cleaning dust and
+                   debris from
+                   surfaces, tools,
+                   and work areas
+                   before painting or
+                   sealing.
+                   Dusting: For
+                   cleaning out
+                   electrical panels,
+                   machinery, and
+                   hard-to-reach
+                   areas.
+
+                   DIESEL CONCRETE
+                   MIXTURE, PETROL
+                   CONCRETE MIXTURE,
+                   ELECTRIC CONCRETE
+CCOONNCCRREETTEE MMIIXXTTUURREE   MIXTURE
+SIZES              100 TO 500 LITERS
+TOWER LIGHT
+AALLUUMMIINNIIUUMM
+SSCCAAFFOOLLDDIINNGG
+                   1 SET 2 METER
+                   LENGTH OR 140
+BIG SCAFOLDING     CENTIMETER WIDGTH
+                   1 SET 2 METER
+                   LENGTH OR 85
+SMALL SCAFOLDING   CENTIMETER WIDGTH
+
+                   WALL CUTTER, CORE
+                   CUTTING MACHINE 1
+                   TO 10 INCH OF BIT
+                   FURTHER USE
+CONCRETE CUTTING   INTERNET FOR
+MACHINE            BETTER INFORMATION
+STEEL BENDING
+MACHINE
+TILE CLEANING,
+FLOOR CLEANING
+FLOOR GRINDING
+MACHINE
+                   ELECTRIC CONCRETE
+                   VIBRATOR, PETROL
+CONCRETE VIBRATOR  CONCRETE VIBRATOR
+POWER FLOOR
+(HELICOPTER)
+BIG JACK HAMMER
+20KG
+MEDIUM JACK HAMMER
+13 KG
+SMALL JACKHAMMER 7
+KG
+WELDING MACHINE
+STEEL CUTTER
+GRINDER BIG
+GRINDER SMALL
+INTER LOCK CUTTER
+PLY/WOOD CUTTER
+BIG OR SMALL
+HILTI DRILL
+PLY/WOOD DRILL
+DRILL SMALL
+BATTERY DRILL
+(TIGHTER)
+IMPACT WRENCH
+AIR BLOWER SMALL
+OR BIG
+VACCUM CLEANER
+COMMERCIAL/
+INDUSTERIAL
+WATER PUMP PETROL
+OR ELECTRIC
+CABLE PUNCHING
+TOOL
+DEGREEE CUTTER
+SERVICE MACHINE
+(POWER SPRAYER)
+WATER PRESSURE
+TESTING PUMP
+LIVESTOCK POWER    COMMONLY USE FOR
+SPRAYER            CAMELS
+                   ALL SIZES 12 METER
+                   10 METER 8 METER 6
+                   METER 4 METER 2
+LADDERS            METER
+TREEE CUTTER CHAIN
+SAW
+TREE TRIMMING
+MACHINE            FOR DESIGNING
+EEaarrtthh AAuuggeerr //
+PPoosstt--HHoollee DDiiggggeerr   sand hole machine
+WIRE ROLL
+                   FOR CONSTRUCTION
+EXHAUST FAN        SITE
+JIGSAW MACHINE
+SANDWICH PANNLE
+CUTTER
+GLUE MIXTURE                                                                  1
+TILE CUTTER
+SANDING MACHINE

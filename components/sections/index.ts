@@ -1,0 +1,13 @@
+export { HeroSection } from "./hero-section";
+export { BrandsSection } from "./brands-section";
+export { CategoriesSection } from "./categories-section";
+export { FeaturedMachinerySection } from "./featured-machinery-section";
+export { HappyCustomersSection } from "./happy-customers-section";
+export { LocationsSection } from "./locations-section";
+export { CTASection } from "./cta-section";
+export { WhyChooseUsSection } from "./why-choose-us-section";
+export { HowItWorksSection } from "./how-it-works-section";
+export { ServicesSection } from "./services-section";
+export { StatsSection } from "./stats-section";
+export { SeoContentSection } from "./seo-content-section";
+export type { SeoContentBlock, SeoContentSectionProps } from "./seo-content-section";
