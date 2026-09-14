@@ -1,5 +1,7 @@
 import { notFound } from "next/navigation";
 import { ContentEditor } from "../../_components/content-editor";
+import { FormEditor } from "../../_components/form-editor";
+import { getFormDef } from "../../_lib/form-schema";
 import { ADMIN_SECTIONS } from "../../_lib/sections";
 
 export function generateStaticParams() {
@@ -18,6 +20,20 @@ export default async function AdminSectionPage({
 
   if (!meta || !meta.contentKey) {
     notFound();
+  }
+
+  // Interactive schema-driven form when a form definition exists for this
+  // content key; otherwise fall back to the raw JSON editor.
+  const form = getFormDef(meta.contentKey);
+  if (form) {
+    return (
+      <FormEditor
+        contentKey={meta.contentKey}
+        title={meta.label}
+        description={meta.description}
+        form={form}
+      />
+    );
   }
 
   return (
