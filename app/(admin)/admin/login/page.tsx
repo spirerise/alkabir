@@ -20,7 +20,7 @@ function LoginForm() {
   const search = useSearchParams();
   const from = search.get("from") || "/admin";
 
-  const [username, setUsername] = useState("admin");
+  const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
@@ -70,6 +70,7 @@ function LoginForm() {
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
                 autoComplete="username"
+                placeholder="Enter your username"
               />
             </div>
             <div className="space-y-2">
